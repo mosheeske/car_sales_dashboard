@@ -48,8 +48,8 @@ This type of dashboard can help:
 streamlit run app.py
 
 ## 📚 Skills Demonstrated
-Interactive dashboard development
-Data visualization
-Exploratory data analysis (EDA)
-User-focused design
-Deployment-ready application structure
+-Interactive dashboard development
+-Data visualization
+-Exploratory data analysis (EDA)
+-User-focused design
+-Deployment-ready application structure
